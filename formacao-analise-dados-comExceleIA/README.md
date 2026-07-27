@@ -1,0 +1,1 @@
+Projeto "Criando uma Dashboard da Porsche com Agentes de IA" Este arquivo lista os materiais de apoio utilizados no Projeto "Criando uma Dashboard da Porsche com Agentes de IA". Inclui a base de dados referente ao projeto Porsche. Material do Projeto Porsche - Planilha base Porsche (Sanitizada) - https://hermes.dio.me/files/assets/8683bed0-cc33-4e06-bca9-04db9c31f9e2.xlsx
